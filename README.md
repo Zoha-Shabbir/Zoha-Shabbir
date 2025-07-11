@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Zoha-Shabbir/Zoha-Shabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Zoha 👋
 
-Here are some ideas to get you started:
+🎓 I'm a Software Engineering student with a passion for clean design, logic, and problem-solving.  
+💻 Currently learning web development (HTML, CSS, JavaScript) alongside my core skills in C++ and SQL.  
+🌱 Eager to grow through real-world projects and collaboration with the dev community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🧠 Skills
+- 🔹 Programming: C++, SQL
+- 🔹 Web: HTML, CSS, JavaScript (learning)
+- 🔹 Tools: Git, GitHub, VS Code
+
+---
+
+### 📌 Goals
+- 🔄 Build beginner-friendly web apps (To-Do App, Quiz App, Portfolio Website)
+- 🚀 Improve my front-end and back-end development skills
+- 🤝 Collaborate on open-source projects and contribute to the community
+
+---
+
+### 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) *(replace with your real link)*
+- Email: your-email@example.com *(optional)*
+- Portfolio: Coming soon...
+
+---
+
+
 -->
