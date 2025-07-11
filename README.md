@@ -15,7 +15,6 @@
 ---
 
 ### 📌 Goals
-- 🔄 Build beginner-friendly web apps (To-Do App, Quiz App, Portfolio Website)
 - 🚀 Improve my front-end and back-end development skills
 - 🤝 Collaborate on open-source projects and contribute to the community
 
@@ -23,10 +22,6 @@
 
 ### 📫 Let's Connect!
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) *(replace with your real link)*
-- Email: your-email@example.com *(optional)*
-- Portfolio: Coming soon...
-
----
 
 
--->
+
