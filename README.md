@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) *(replace with your real link)*
+- LinkedIn: [https://www.linkedin.com/in/zoha-shabbir-4113442a4/) 
 
 
 
